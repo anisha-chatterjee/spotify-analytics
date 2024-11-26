@@ -1,0 +1,13 @@
+{
+  "account": {
+    "email": "anishac.0701@gmail.com",
+    "fullName": "anisha c"
+  },
+  "teams": [
+    {
+      "teamName": "Anisha C",
+      "accessLevel": "Admin",
+      "role": "artist"
+    }
+  ]
+}
